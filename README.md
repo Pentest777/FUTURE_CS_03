@@ -5,7 +5,7 @@
 The Secure File Sharing System is a web-based application designed to provide secure upload and download of files using AES (Advanced Encryption Standard). The main objective of this project is to ensure data confidentiality, integrity, and secure storage by encrypting files before saving them on the server and decrypting them only when an authorized user requests access.
 This system simulates real-world secure file handling used in cloud storage platforms, enterprise systems, and cybersecurity applications.
 
-🎯 Problem Statement
+🎯 Problem Statement 
 Traditional file-sharing systems store files in plain format, making them vulnerable to:
 Unauthorized access
 Data breaches
